@@ -1,0 +1,26 @@
+[
+  {
+    "header": "The World's Tallest Building",
+    "details": [
+      "The current tallest building in the world is the Burj Khalifa, located in Dubai, United Arab Emirates.",
+      "It stands at a height of 828 meters (2,716 feet) tall and has 163 floors.",
+      "The building took six years to construct and was completed in 2010."
+    ]
+  },
+  {
+    "header": "Famous Inventors and Their Inventions",
+    "details": [
+      "Nikola Tesla, a Serbian-American inventor, is credited with the invention of the AC (alternating current) electrical system.",
+      "Thomas Edison, an American inventor, is credited with the invention of the light bulb.",
+      "Alexander Graham Bell, a Scottish-born American inventor, is credited with the invention of the telephone."
+    ]
+  },
+  {
+    "header": "Largest Deserts in the World",
+    "details": [
+      "The Sahara Desert, located in Africa, is the largest hot desert in the world and covers an area of 9.2 million square kilometers (3.6 million square miles).",
+      "The Antarctic Desert, located in Antarctica, is the largest cold desert in the world and covers an area of 14 million square kilometers (5.4 million square miles).",
+      "The Arabian Desert, located in the Middle East, is the third-largest desert in the world and covers an area of 2.33 million square kilometers (900,000 square miles)."
+    ]
+  }
+]
